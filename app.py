@@ -46,4 +46,4 @@ async def manga(ctx, title: str, limit=None):
 
     await ctx.send(embed=manga_data)
 
-client.run('ODQzODQyMDM1MTc2OTY0MDk2.YKJvIw.RbDn6QOul7OdjlWJcVGD_dXKs5M')
+client.run('token')
